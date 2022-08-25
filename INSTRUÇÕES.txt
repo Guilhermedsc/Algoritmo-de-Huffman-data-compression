@@ -12,6 +12,6 @@ funcionado. Ao final ele vai gerar um arquivo "compactado.huff" que vai estar co
 PARA DESCOMPACTAR USE:
 	.\trabalho.exe compactado.huff DESCOMPACTAR descompactado.txt
 
-	Ao fazer isso ele vai gerar um arquivo "descompactado.pdf" que estará igual ao arquivo original.
+	Ao fazer isso ele vai gerar um arquivo "descompactado.txt" que estará igual ao arquivo original.
 	
 	Você pode alterar o formato dos arquivos na linha de comando na hora de executar. (png, txt, mp4...)
