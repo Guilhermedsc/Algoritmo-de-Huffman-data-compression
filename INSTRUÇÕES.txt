@@ -1,0 +1,17 @@
+					VERSÃO 1.3.2 (FINAL)
+
+PARA COMPILAR USE:
+	g++ main.cpp ftab.cpp prefix.cpp eqtab.cpp bqueue.cpp -o trabalho.exe
+
+PARA COMPACTAR USE:
+	.\trabalho.exe texto.txt COMPACTAR compactado.huff
+
+	Quando vizer isso o programa vai imprimir todos o dados no terminal para você ver todo o
+funcionado. Ao final ele vai gerar um arquivo "compactado.huff" que vai estar compactado.
+
+PARA DESCOMPACTAR USE:
+	.\trabalho.exe compactado.huff DESCOMPACTAR descompactado.txt
+
+	Ao fazer isso ele vai gerar um arquivo "descompactado.txt" que estará igual ao arquivo original.
+	
+	Você pode alterar o formato dos arquivos na linha de comando na hora de executar. (png, txt, mp4...)
